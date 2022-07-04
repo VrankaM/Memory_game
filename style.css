@@ -1,0 +1,18 @@
+
+#shuffle{
+    padding: 10px 20px;
+    margin: 20px;
+    background-color: darkviolet ;
+    color: white;
+    font-size: 25px;
+    border-radius: 15px;
+}
+#shuffle:hover{
+    cursor: pointer;
+}
+.content > img{
+    margin: 5px;
+}
+.content > img:hover{
+    cursor: pointer;
+}
